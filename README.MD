@@ -1,1 +1,1 @@
-this is a test repo for learning purpose.
+this is a test repo for learning purpose. Have a good day.
